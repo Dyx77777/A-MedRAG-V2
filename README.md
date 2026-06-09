@@ -1,1 +1,1 @@
-# A-Med-RAG-V2
+# A-MedRAG-V2 is the second version of Medical RAG(V1).
