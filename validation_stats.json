@@ -1,0 +1,7 @@
+{
+  "collection_name": "medical_chunks",
+  "total_chunks": 2825,
+  "embedding_model": "/root/bge-small-en-v1.5",
+  "embedding_dimension": 384,
+  "validation_passed": true
+}
